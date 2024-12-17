@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/Ricryms_Test/Ricryms_Test/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset",
+				"D:/Github/Ricryms_Test/Ricryms_Test/AdvancedLocomotionSystemV/Content/ComboTable.uasset",
+				"D:/Github/Ricryms_Test/Ricryms_Test/AdvancedLocomotionSystemV/Content/Animations/Retarget/Re_Sword_And_Shield_Impact.uasset",
+				"D:/Github/Ricryms_Test/Ricryms_Test/AdvancedLocomotionSystemV/Content/FXVarietyPack/Particles/P_ky_magicCircle1.uasset",
+				"D:/Github/Ricryms_Test/Ricryms_Test/AdvancedLocomotionSystemV/Content/Fantastic_Village_Pack/maps/map_village_day.umap",
+				"D:/Github/Ricryms_Test/Ricryms_Test/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_NPC.uasset",
 				"C:/Users/Moses/Documents/Unreal Projects/AdvancedLocomotionSystemV/Content/Character/maria_diffuse.uasset",
 				"C:/Users/Moses/Documents/Unreal Projects/AdvancedLocomotionSystemV/Content/Character/maria_normal.uasset",
 				"C:/Users/Moses/Documents/Unreal Projects/AdvancedLocomotionSystemV/Content/Character/maria_specular.uasset",
